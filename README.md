@@ -53,30 +53,30 @@ Desarrollador Backend enfocado en la construcción de soluciones empresariales e
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdkor=white
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&white
+![Java](https://img.shields.io/va-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&
 
 ### Bases de Datos
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?the-badge&logo=oracle&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style&logo=postgresql&logoColor=white
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=dge&logo=oracle&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192-badge&logo=postgresql&logoColor=white
 
 ### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-logo=docker&logoColor=white
+![Dockerimg.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
 ### Cloud
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazurer=white
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white
 
 ### Herramientas
 
-![Git](https://img.shields.io/it-F05032?style=for-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181for-the-badge&logo=github&logoColor=white
+![Git](https://img.shields.io/badge5032?style=for-the-badge&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge1717?style=for-the-badge&logo=github&logoColor=white
 
 ---
 
