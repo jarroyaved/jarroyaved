@@ -2,7 +2,7 @@
 
 # 👋 Hola, Soy David Arroyave
 
-### 💻 Backend Developer | Java | Spring Boot | Azure
+### 💻 Frontend Developer | Anguar |  Tailwind css 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&textrroyave&fontSize=45&fontColor=ffffff
 
